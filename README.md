@@ -5,7 +5,6 @@
 This project simulates solving a 3x3 Rubik’s Cube using the **Layer-by-Layer (LBL)** method in Python. It is intended for educational, research, and prototype-building purposes.
 
 
-
 ## ✅ Features
 
 - Solves the cube layer-by-layer (White Cross → First Layer Corners → Middle Edges → Yellow Cross → Final Layer).
